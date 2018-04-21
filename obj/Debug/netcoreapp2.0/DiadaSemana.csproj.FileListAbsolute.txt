@@ -1,0 +1,10 @@
+C:\Users\Edélson\LogicadeProgramação\DiadaSemana\obj\Debug\netcoreapp2.0\DiadaSemana.csproj.CoreCompileInputs.cache
+C:\Users\Edélson\LogicadeProgramação\DiadaSemana\obj\Debug\netcoreapp2.0\DiadaSemana.AssemblyInfoInputs.cache
+C:\Users\Edélson\LogicadeProgramação\DiadaSemana\obj\Debug\netcoreapp2.0\DiadaSemana.AssemblyInfo.cs
+C:\Users\Edélson\LogicadeProgramação\DiadaSemana\bin\Debug\netcoreapp2.0\DiadaSemana.deps.json
+C:\Users\Edélson\LogicadeProgramação\DiadaSemana\bin\Debug\netcoreapp2.0\DiadaSemana.runtimeconfig.json
+C:\Users\Edélson\LogicadeProgramação\DiadaSemana\bin\Debug\netcoreapp2.0\DiadaSemana.runtimeconfig.dev.json
+C:\Users\Edélson\LogicadeProgramação\DiadaSemana\bin\Debug\netcoreapp2.0\DiadaSemana.dll
+C:\Users\Edélson\LogicadeProgramação\DiadaSemana\bin\Debug\netcoreapp2.0\DiadaSemana.pdb
+C:\Users\Edélson\LogicadeProgramação\DiadaSemana\obj\Debug\netcoreapp2.0\DiadaSemana.dll
+C:\Users\Edélson\LogicadeProgramação\DiadaSemana\obj\Debug\netcoreapp2.0\DiadaSemana.pdb
